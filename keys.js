@@ -10,6 +10,7 @@ var spotifyKeys={
 	client_secret: "1006da13602d40f9bcec04005766a63b",
 }
 
+//exports the twitter keys and spotify keys
 module.exports.twitterKeys = twitterKeys;
 module.exports.spotifyKeys=spotifyKeys;
 
