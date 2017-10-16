@@ -1,1 +1,3 @@
 # liri-node-app
+
+Summary: A node-based application that allows a user to enter in a third argument. The third command line argument can take values such as "spotify-this-song", "my-tweets", "movie-this", and "do-what-it-says". The value "spotify-this-song" will return song information such as the song's name, album, artist, and link. The value "my-tweets" will return the latest 20 tweets from the user's twitter account along with the dates the tweets were created. The value "movie-this" will return movie information from the omdb site such as title, release year, imdb rating, rotten tomatoes rating, plot, language, actors, and country. The value "do-what-it-says" takes the text inside a file called "random.txt" and uses it to call LIRI's other commands.       
